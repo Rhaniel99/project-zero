@@ -14,6 +14,10 @@
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Colors","order":1,"path":"folders/Sprites/Colors.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_collider","order":1,"path":"objects/obj_collider/obj_collider.yy",},
+    {"name":"spr_collider","order":1,"path":"sprites/spr_collider/spr_collider.yy",},
+  ],
 }
