@@ -15,5 +15,8 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_protagonista","order":1,"path":"objects/obj_protagonista/obj_protagonista.yy",},
+    {"name":"spr_protagonista","order":1,"path":"sprites/spr_protagonista/spr_protagonista.yy",},
+  ],
 }

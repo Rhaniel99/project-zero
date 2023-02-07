@@ -34,6 +34,8 @@
   "resources": [
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":0,},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"order":0,},
+    {"id":{"name":"obj_protagonista","path":"objects/obj_protagonista/obj_protagonista.yy",},"order":0,},
+    {"id":{"name":"spr_protagonista","path":"sprites/spr_protagonista/spr_protagonista.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
