@@ -19,5 +19,6 @@
   "ResourceOrderSettings": [
     {"name":"obj_collider","order":1,"path":"objects/obj_collider/obj_collider.yy",},
     {"name":"spr_collider","order":1,"path":"sprites/spr_collider/spr_collider.yy",},
+    {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
   ],
 }
