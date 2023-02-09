@@ -36,6 +36,7 @@
     {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},"order":0,},
     {"id":{"name":"PlayerScript","path":"scripts/PlayerScript/PlayerScript.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},"order":0,},
