@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "spr_player",
   "bbox_bottom": 31,
-  "bbox_left": 0,
-  "bbox_right": 31,
+  "bbox_left": 6,
+  "bbox_right": 23,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6594d82b-0874-4edf-8f52-7715ef1a7096",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e271ada5-5f97-4f0c-98cf-d17997664076",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"279628c7-f024-4a23-a21c-1db7ff57a593","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30116608-2da7-4abc-9bbb-3ba9b6dd591e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Colors",
-    "path": "folders/Sprites/Colors.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6594d82b-0874-4edf-8f52-7715ef1a7096","path":"sprites/spr_player/spr_player.yy",},},},"Disabled":false,"id":"66c55750-e460-4514-84f5-c2d4f80bb30a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e271ada5-5f97-4f0c-98cf-d17997664076","path":"sprites/spr_player/spr_player.yy",},},},"Disabled":false,"id":"e78c0161-cbc4-46a6-bc84-6236539a74fa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
