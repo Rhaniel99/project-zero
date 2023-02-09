@@ -76,9 +76,6 @@ if place_meeting(x + hveloc, y, obj_collider){
  }
  hveloc = 0;
 }
-x += hveloc;
-
-
 
 if place_meeting(x , y + vveloc, obj_collider){
  while !place_meeting(x, y + sign(vveloc), obj_collider){
@@ -86,5 +83,7 @@ if place_meeting(x , y + vveloc, obj_collider){
  }
  vveloc = 0;
 }
+
+x += hveloc;
 y += vveloc;
 }
