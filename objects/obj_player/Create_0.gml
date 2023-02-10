@@ -1,6 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
+// Movimentação;
 direita = -1;
 cima = -1;
 esquerda = -1;

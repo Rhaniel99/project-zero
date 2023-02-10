@@ -34,14 +34,18 @@
   },
   "resources": [
     {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},"order":0,},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
     {"id":{"name":"PlayerScript","path":"scripts/PlayerScript/PlayerScript.yy",},"order":0,},
+    {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":0,},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},},
   ],
   "TextureGroups": [
