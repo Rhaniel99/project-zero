@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_collider","order":1,"path":"objects/obj_collider/obj_collider.yy",},
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_menu","order":3,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"spr_collider","order":1,"path":"sprites/spr_collider/spr_collider.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
   ],
